@@ -57,7 +57,10 @@ namespace ConsoleApp1
 
 
 
-
+                if(rez == 1)
+                {
+                    a = int.Parse(Console.ReadLine());
+                }
 
 
 
