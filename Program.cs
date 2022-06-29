@@ -37,7 +37,10 @@ namespace ConsoleApp1
 
 
 
-
+                if(rez == 6)
+                {
+                    Console.WriteLine(a/b);
+                }
 
 
 
