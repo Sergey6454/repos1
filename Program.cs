@@ -22,6 +22,21 @@ namespace ConsoleApp1
                     "6-Делить В на А\n");
                 int rez = int.Parse(Console.ReadLine());
 
+                if(rez == 3)
+                {
+                    Console.WriteLine(a+b);
+                }
+
+
+
+
+
+
+
+                if(rez == 4)
+                {
+                    Console.WriteLine(a-b);
+                }
 
 
 
@@ -37,6 +52,27 @@ namespace ConsoleApp1
 
 
 
+                if(rez == 6)
+                {
+                    Console.WriteLine(a/b);
+                }
+
+
+
+                if(rez == 5)
+                {
+                    Console.WriteLine(a * b);
+                }
+
+
+
+
+
+
+                if(rez == 1)
+                {
+                    a = int.Parse(Console.ReadLine());
+                }
 
 
 
@@ -46,28 +82,10 @@ namespace ConsoleApp1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                if(rez == 2)
+                {
+                  b = int.Parse(Console.ReadLine());
+                }
 
 
 
