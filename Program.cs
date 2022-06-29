@@ -47,7 +47,10 @@ namespace ConsoleApp1
 
 
 
-
+                if(rez == 5)
+                {
+                    Console.WriteLine(a * b);
+                }
 
 
 
