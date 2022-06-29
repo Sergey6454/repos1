@@ -22,7 +22,10 @@ namespace ConsoleApp1
                     "6-Делить В на А\n");
                 int rez = int.Parse(Console.ReadLine());
 
-
+                if(rez == 3)
+                {
+                    Console.WriteLine(a+b);
+                }
 
 
 
