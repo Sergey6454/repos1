@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int a = 0, b = 0;
-
+             
             while(true)
             {
                 Console.WriteLine("1-Ввести А\n" +
